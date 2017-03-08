@@ -1,2 +1,2 @@
 # GitHub Test
-###ReamME
+###ReadME
